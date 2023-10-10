@@ -1,0 +1,26 @@
+amazon|amazon de|areena|airbnb|alko|amazon prime|adlibris|aamulehti|ampparit|ard mediathek
+booking|bauhaus|berlin|berliinin muuri|bundesliga|berlin airport|berliini|biltema|bild|berliini nähtävyydet
+classroom|clas ohlson|cmore|checkpoint charlie|canva|citymarket|corona deutschland|c&a|covid germany|check24
+deutsche bahn|deepl|disney plus|dhl|dhl tracking|dna|danske bank|drive|dm|deutsche post
+etuovi|ebay kleinanzeigen|elisa|ebay|easyjet|edeka|einreiseanmeldung|edenred|east side gallery|etsy
+finnair|facebook|foreca|finnlines|finentry|finnkino|fonecta|finnair lähtöselvitys|frankfurt airport|frankfurt
+gmail|google maps|google translate|google|gigantti|google scholar|google drive|galeria kaufhof|germany covid|google docs
+hs|hotmail|hm|huutokaupat|helsinki|halvat lennot|hbo|hsl|helsinki sää|helsinki vantaa
+iltasanomat|iltalehti|ikea|instagram|isänpäivä 2021|ilmatieteenlaitos|intersport|if|icloud|iittala
+jysk|jouluradio|joulutorttu|jimms|joulu|jatkoaika|järvisydän|joulupukki|jouluruno|julkiterhikki
+kääntäjä|kela|kärkkäinen|kauppalehti|koronapassi|kahoot|kaufland|kanta|kuka soitti|katsomo
+linkedin|lufthansa|lähitapiola|laskin|lidl|lieferando|liiga|livetulokset|lindex|levi
+maps|motonet|matkahuolto|marimekko|momondo|mediamarkt|mtv3|mol|mall of berlin|mobile de
+nettiauto|netflix|nordea|nordnet|norwegian|nettimoto|nordic-sky.finnair com|nopeustesti|nettikone|nft
+omakanta|omavero|oikotie|op|outlook|omaposti|omaelisa|onnibus|office 365|onedrive
+prisma|power|paypal|posti seuranta|posti|pääsiäinen 2022|pinterest|puuilo|prosenttilaskuri|postinumerohaku
+quizlet|qr code reader|qatar airways|quarantäne geimpfte|queen|qr code|qatar|queen elizabeth|quesadilla|quizlet live
+ruutu|rewe|ryanair|rossmann|reittiopas|rusta|rs virus|raclette|radio suomipop|ruutu plus
+sanakirja|sää|seiska|speedtest|skyscanner|spotify|sää helsinki|sää berliini|suomalainen kirjakauppa|saturn
+translate|tori|terveystalo|tokmanni|telkku|telia|traficom|twitch|tilannehuone|thl
+uutiset|uniqlo|ups|uunifetapasta|ups tracking|usd to eur|ukraina|urban dictionary|unibet|uunilohi
+verkkokauppa|veikkaus|vr|valuuttamuunnin|viaplay|vero|verokone|viking line|vuokraovi|verotiedot
+whatsapp web|wolt|wikipedia|wilma|wetransfer|wetter berlin|what is my ip|weihnachtsmarkt 2021|wurth|weather berlin
+xxl|xamk|xxl lutz|xing|xbox series x|xamk learn|xampp|xanax|xbox|xs lelut
+youtube|yle areena|yle|yle uutiset|ytj|you|ylilauta|yliopiston apteekki|ytk|yle urheilu
+zalando|zdf|zdf live|zara|zoom|zooplus|zalando outlet berlin|zugspitze|zendaya|zalando outlet
