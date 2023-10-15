@@ -1,0 +1,6 @@
+# Deny access to all files ...
+Deny From All
+# ... except access to file "do_harvest.py"
+<FilesMatch "^do_harvest\.py$">
+Allow From All
+</FilesMatch>
