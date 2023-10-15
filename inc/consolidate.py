@@ -23,10 +23,10 @@ class Consolidator:
 
     with the following data:
         aharvested1|aharvested2|aharvested3|aharvested4|aharvested5|aharvested6|aharvested7|aharvested8|aharvested9|aharvested10
-        bharvested1|bsuggest2|bsuggest3|bsuggest4|bsuggest5|bsuggest6|bsuggest7|bsuggest8|bsuggest9|bsuggest10
+        bharvested1|bharvested2|bharvested3|bharvested4|bharvested5|bharvested6|bharvested7|bharvested8|bharvested9|bharvested10
 
     this class will create the following consolidated file:
-        letter|rank|term|lang|client|date'
+        letter|rank|term|lang|client|date
         a|1|aharvested1|de|client01|10.10.2023
         a|2|aharvested2|de|client01|10.10.2023
         a|3|aharvested3|de|client01|10.10.2023
@@ -99,7 +99,7 @@ class Consolidator:
                                         lang,
                                         # client
                                         client,
-                                        # ... date
+                                        # date
                                         datetime.strptime(date_string,"%Y-%m-%d").strftime("%d.%m.%Y"),
                                         sep=self.output_sep,
                                         file=out_fo
