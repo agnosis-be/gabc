@@ -1,0 +1,26 @@
+airbnb|amazon|amazon de|airbaltic|areena|alko|amazon prime|aldi|adler mannheim|ard mediathek
+booking|black friday 2023|bundesliga|baden baden|bauhaus|basel|bayern münchen|bild|black forest|bodensee
+canva|chat gpt|cmore|c&a|cet|check24|citymarket|champions league|clas ohlson|connections
+danske|deutsche bahn|db|deepl|disney plus|dhl tracking|dhl|dm|dna|digitoday
+ebay|etuovi|ebay kleinanzeigen|edeka|elisa|europa park|eurowings|etsy|ebookers|esslingen
+flixbus|finnair|facebook|freiburg|foreca|finnlines|fuudii|finnair lähtöselvitys|flammkuchen|flightradar
+google maps|google kääntäjä|gmail|google|gigantti|google flights|google scholar|google drive|gaza|gmail login
+heidelberg|hs|halloween|hotmail|helsinki|hm|halvat lennot|heidelberg castle|helsinki sää|huutokaupat
+iltalehti|iltasanoma|ikea|isänpäivä 2023|instagram|ilmatieteenlaitos|israel|iphone 15|icon of the seas|if
+jysk|jouluradio|joulutorttu|julkiterhikki|jyry kortelainen|jimms|jatkoaika|jyväskylä|joutsen untuvatakki|jari sillanpää
+kääntäjä|karlsruhe|kela|katsomo|kaufland|kleinanzeigen|karjalanpiirakka|konstanz|kauppalehti|kärkkäinen
+legoleaks|lufthansa|linkedin|lieferando|lidl|liiga|lähitapiola|laskin|ludwigsburg|levi
+momondo|maps|motonet|mediamarkt|mannheim|matkahuolto|marimekko|mtv katsomo|mcdonalds|mokkapalat
+nordea|netflix|nettiauto|norwegian|nokia|nordnet|nhl|nettimoto|nakkikeitto|nopeustesti
+omavero|oikotie|omakanta|outlook|op|onnibus|omakela|omaelisa|omaposti|outlet metzingen
+porsche museum|paypal|poliisi|pinterest|prosenttilaskuri|prisma|posti|primark|power|posti seuranta
+quizlet|qatar airways|qr koodi|qatar|quillbot|quentin tarantino|queen elizabeth|quinoa|qbittorrent|quotes
+ryanair|ruutu|rewe|rossmann|restaurant|reutlingen|rothenburg ob der tauber|restaurants near me|revontulet|riisipuuro
+stuttgart|sanakirja|skyscanner|sää|sää helsinki|strasbourg|speedtest|spotify|schwarzwald|seiska
+translate|translate google|tori|traficom|tübingen|tokmanni|telkku|terveystalo|talouselämä|telia
+ulm|uniqlo|ups tracking|uutiset|unibet|uunifetapasta|ups|uusi suomi|ugg|uber
+veikkaus|verkkokauppa|vr|valuuttamuunnin|vfb stuttgart|vero|viking line|viaplay|verokone|vuokraovi
+wordle|whatsapp web|weather|whatsapp|wikipedia|wolt|wetteronline|wetter|wetransfer|weihnachtsmarkt
+xxl|xamk|xbox|xamk learn|xrp|xampp|xylitol|xi jinping|xracing|xbil
+youtube|yle areena|yle|yle uutiset|yt|ylilauta|yahoo mail|you|ytj|youtube music
+zalando|zara|zoom|zdf mediathek|zdf live|zeiss|zalando lounge|zooplus|zalando outlet|zurich
