@@ -3,7 +3,7 @@
 #
 # By: agnosis.be
 # Repo: gabc
-# File version: 1.0
+# File version: 1.1
 #
 # Provides:
 # - class Harvester
@@ -70,13 +70,14 @@ class Harvester:
                 self.output_dir,
                 now.strftime("%Y"),
                 now.strftime("%Y-%m-%d"),
-                self.client_id, hl
+                self.client_id,
+                hl
             )
 
             if path.exists(output_path):
                 continue
 
-            with open(output_path, mode='a', encoding=self.output_enc) as out_fo:
+            with open(output_path, mode='wt', encoding=self.output_enc) as out_fo:
                 for letter in self.abc:
                     url = self.url_fmt.format(letter, hl)
                     with request.urlopen(url) as url_fp:
