@@ -1,0 +1,26 @@
+airbnb|amazon|amazon de|airbaltic|areena|alko|alexanderplatz|ard mediathek|amazon prime|aldi
+booking|berliinin muuri|berliini|bundesliga|berlin airport|berliini sää|berlin zoo|berlin|bauhaus|berliini nähtävyydet
+chat gpt|cmore|checkpoint charlie|canva|champions league|cha cha cha|c&a|currywurst|commerzbank|capybara
+deutsche bahn|deepl|dm|dhl|ddr museum|dhl tracking|dusseldorf|dresden|dusseldorf airport|decathlon
+etuovi|ebay kleinanzeigen|eurowings|east side gallery|edeka|ebay|elisa|eurovision 2023|eduskuntavaalit 2023|euroviisut 2023
+finnair|facebook|finnlines|foreca|flixbus|frankfurt airport|frankfurt|finnair lähtöselvitys|flightradar|fonecta
+google maps|google translate|gmail|google|google flights|gigantti|google scholar|google drive|garmisch partenkirchen|gm
+hs|hotmail|halvat lennot|hm|helsinki|hampuri|heidelberg|hannover|hamburg|huutokaupat
+iltalehti|is|ikea|instagram|ilmatieteenlaitos|iihf|if|innsbruck|intersport|imdb
+jääkiekon mm 2023|juhannus 2023|jysk|juhannus|jääkiekon mm|jyväskylä|jere pöyhönen|jimms|jatkoaika|juneberry
+kääntäjä|käärijä|kela|katsomo|köln|kadewe|kaufland|kauppalehti|kuka soitti|kahoot
+lufthansa|linkedin|lidl|lähitapiola|laskin|leipzig|lufthansa check in|lieferando|lennot|liiga
+maps|munchen|momondo|motonet|matkahuolto|mall of berlin|mtv3|munchen nähtävyydet|mediamarkt|munich airport
+netflix|nettiauto|nordea|norwegian|neuschwanstein castle|nato|nettimoto|nhl|nordnet|nopeustesti
+omavero|omakanta|oikotie|outlook|onnibus|op|omaelisa|omaposti|opintopolku|omakela
+paypal|primark|pääsiäinen 2023|poliisi|pinterest|puuilo|potsdam|posti seuranta|prosenttilaskuri|posti
+qatar airways|quizlet|queen charlotte|quesadilla|qstock|queen|qr code generator|qr code scanner|quark|quedlinburg
+rewe|ryanair|ruutu|rammstein|riikka purra|rossmann|restaurants near me|reittiopas|reddit|regensburg
+sää berliini|sää|sanakirja|skyscanner|sää helsinki|sää munchen|speedtest|seiska|saksa|spotify
+translate|tori|traficom|telkku|trivago|tripadvisor|telia|tokmanni|terveystalo|twitter
+uniqlo|uutiset|ulkomaan päiväraha 2023|ukraina|ups|usd to eur|ulm|urban outfitters|uunifetapasta|unibet
+veikkaus|vr|valuuttamuunnin|verkkokauppa|viking line|venäjä|vero|viaplay|vaalikone|vr junaliput
+whatsapp web|wetter berlin|whatsapp|weather berlin|wetter|wikipedia|wordle|wetransfer|weather|weather munich
+xxl|xamk learn|xo kitty|xantener eck|xrp|xxl lutz|xanten|xe|xamk lux|xiaomi
+youtube|yle areena|yle|yle uutiset|yt|ytj|ylilauta|yle vaalikone|yr no|youtube music
+zalando|zara|zugspitze|zdf|zoo berlin|zoom|zalando outlet|zalando outlet berlin|zurich|zooplus

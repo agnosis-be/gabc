@@ -1,0 +1,26 @@
+amazon|airbnb|air france|action|aliexpress|aldi|apple|amazon prime|ameli|arte
+booking|bundesliga|blablacar|black friday 2023|black friday|berlin|bauhaus|burger king|boulanger|bershka
+chatgpt|canva|calculatrice|classement ligue 1|clavier arabe|classement bundesliga|caf|calendrier 2024|champions league|commerzbank
+deepl|deutsche bahn|db|dm|decathlon|doctolib|dhl|dhl tracking|douglas|deichmann
+ebay kleinanzeigen|ebay|europa park|easyjet|edeka|eurowings|etsy|enfant|edf|eurojackpot
+facebook|flixbus|fnac|flixtrain|frankfurt|free mobile|france|free|flashscore|france inter
+google traduction|gmail|google|google maps|google flight|google trad|google übersetzer|google scholar|google drive|gaza
+hotmail|h&m|hermes|hesgoal|halloween|hamburg|heidelberg|hermes tracking|hamas|harry potter
+ikea|instagram|indeed|iphone 15|iphone 15 pro max|israel|iphone 14 pro max|icloud|i love pdf|idealo
+jysk|joyeux anniversaire|jordan 4|jpg to pdf|jerusalem|jumia|jd sport|jbl|jude bellingham|jennifer aniston
+kaufland|kooora|kleinanzeigen|kahoot|koora tv|kayak|karlsruhe|kora online|kfc|kik
+linkedin|lidl|lufthansa|le bon coin|ligue 1|le monde|livescore|lieferando|leroy merlin|linguee
+maps|météo|mediamarkt|meteo berlin|meteo munich|mappy|mango|munich|meteo paris|mcdonald's
+netflix|niger|nike|nouvelair|new balance|netto|new yorker|nba|nuremberg|n26
+outlook|otto|orange|o2|opodo|omegle|oscaro|office 365|oppenheimer|ouigo
+paypal|programme tv|pinterest|premier league|pons|palestine|primark|pole emploi|punaise de lit|paris
+quiche lorraine|qatar airways|quizlet|qr code generator|qr code|qibla finder|qatar|quillbot|que faire à berlin|quotidien
+ryanair|reverso|restaurant|rewe|real madrid|ramadan 2024|rossmann|rugby|rulantica|royal air maroc
+skyscanner|shein|sncf|sncf connect|saturn|spotify|speedtest|sephora|stuttgart|strasbourg
+traduction|traduction allemand français|trad|temu|traduction anglais francais|trainline|tiktok|twitter|traducteur|turkish airlines
+uniqlo|ugg|ups|udemy|uber|ukraine|uber eats|ufc|union berlin|uni assist
+vinted|vodafone|volotea|viamichelin|vacances scolaires 2023|vidmate|volkswagen|victoria secret|version bêta|veepee
+whatsapp web|whatsapp|wetransfer|weather tomorrow|wetter|western union|wg gesucht|wetter berlin|weather today|wikipedia
+xxl|xing|xiaomi|xe|xbox|xavi|xender|xabi alonso|xiaomi 13 pro|xbox series x
+youtube|yahoo mail|yacine tv|youtube mp3|yahoo|yellowbet|yalla live|youtube music|you|yves rocher
+zalando|zara|zoom|zdf mediathek|zalando lounge|zdf live|zahnarzt|zara home|zara online|zurich
