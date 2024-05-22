@@ -30,6 +30,10 @@ A given client harvests the suggested 10 search terms
 - for a given list of interface languages (hl)
 - from a given machine
 
+## Sample analyses
+
+- G\*\*gle ABC [\[get_abc: Jan. 2022, client01, de, rank 1\]](https://html-preview.github.io/?url=https://github.com/agnosis-be/gabc/blob/main/data/analyzed/agnosis-be_getabc_2022-01-01-2022-01-31_client01-client01_de-de_1-1_result.htm) including [meta data](https://html-preview.github.io/?url=https://github.com/agnosis-be/gabc/blob/main/data/analyzed/agnosis-be_getabc_2022-01-01-2022-01-31_client01-client01_de-de_1-1_meta.htm)
+
 ## Participate
 If you want to participate in harvesting data
 
