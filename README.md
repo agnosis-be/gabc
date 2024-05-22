@@ -15,8 +15,9 @@ Collecting and storing the suggested search terms for a longer period of time, c
 
 ## Ansatz
 This repository provides functions to
-- harvest, and
-- consolidate
+- harvest,
+- consolidate, and
+- analyze
 
 data returned by the suggest API.
 
@@ -35,7 +36,7 @@ If you want to participate in harvesting data
 1. Clone this repository
    ```
    $ git clone https://github.com/agnosis-be/gabc.git
-   ``` 
+   ```
 3. Request a unique client_id by sending an email to &#109;&#97;&#114;&#107;&#117;&#115;&#46;&#107;&#108;&#105;&#101;&#64;&#119;&#101;&#98;&#46;&#100;&#101;
 4. Upon our reply, copy `config/my_client_id.skel` to `config/my_client_id.py`
 5. Update `config/my_client_id.py` with the client_id assigned to you

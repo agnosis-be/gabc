@@ -1,0 +1,5 @@
+# ignore
+*
+# except the following samples
+!agnosis-be_getabc_2022-01-01-2022-01-31_client01-client01_de-de_1-1_meta.htm
+!agnosis-be_getabc_2022-01-01-2022-01-31_client01-client01_de-de_1-1_result.htm
