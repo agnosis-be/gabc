@@ -37,21 +37,19 @@ A given client harvests the suggested 10 search terms
 ## Participate
 If you want to participate in harvesting data
 
-1. Clone this repository
-   ```
-   $ git clone https://github.com/agnosis-be/gabc.git
-   ```
+1. Fork this repository, see [Forking a repository](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#forking-a-repository)
+2. Clone your fork, see [Cloning a fork](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#cloning-a-fork)
 3. Request a unique client_id by sending an email to &#109;&#97;&#114;&#107;&#117;&#115;&#46;&#107;&#108;&#105;&#101;&#64;&#119;&#101;&#98;&#46;&#100;&#101;
 4. Upon our reply, copy `config/my_client_id.skel` to `config/my_client_id.py`
 5. Update `config/my_client_id.py` with the client_id assigned to you
 6. Make sure that `rc/do_harvest.py` runs once a day on the same machine
 7. Verify that `data/harvested/<year>/` is populated with files created by you
-8. Commit and push files created by you to this repository (e.g. once a year)
+8. Commit and push files created by you to your fork of this repository (e.g. once a year)
    ```
    $ git pull
    $ git add data/harvested/*
    $ git commit -m "Added data harvested by <client_id> in <year>"
-   $ git push origin main
+   $ git push
    ```
-
+9. Make a pull request, see [Making a pull request](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#making-a-pull-request)
 
