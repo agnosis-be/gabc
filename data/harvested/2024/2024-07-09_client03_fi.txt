@@ -1,0 +1,26 @@
+airbnb|amazon|amazon de|areena|alko|airbaltic|aldi|apple tv|ard mediathek|amazon prime
+booking|baden baden|baden württemberg|basel|bundesliga|bauhaus|bodensee|bosch|baby reindeer|bild
+chat gpt|colmar|canva|champions league|calculator|c&a|clove lounas|check24|claudia jessie|caracalla spa
+deutsche bahn|db|deepl|dm|db tickets|danske bank|decathlon|dhl tracking|db bahn|dna
+etuovi|europa park|euro 2024|edeka|elisa|ebookers|ebay kleinanzeigen|em 2024|ebay|eurovaalit
+finnair|foreca|freiburg|facebook|finnlines|flammkuchen|friedrichshafen|finnair lähtöselvitys|flixbus|flightradar
+google maps|google kääntäjä|google translate|gmail|google|google scholar|google flights|gigantti|google drive|google lens
+heidelberg|heidelberg castle|hs|heidelberg nähtävyydet|helsinki|helsinki sää|hm|halvat lennot|hotmail|heilbronn
+iltalehti|is|ikea|ilmatieteenlaitos|instagram|immobilienscout24|itä savo|intersport|iihf|if
+jalkapallon em pelit|juhannus 2024|jysk|jääkiekon mm 2024|judas priest|juhannus|jyväskylä|jägermeister|jarno saarinen|jojo siwa
+karlsruhe|kääntäjä|konstanz|kela|katsomo|kartta|kaufland|kauppalehti|kleinanzeigen|kuka soitti
+lufthansa|lähitapiola|linkedin|lidl|laskin|lindau|ludwigsburg|lieferando|leverkusen|leipzig
+maps|mercedes benz museum|motonet|momondo|mtv katsomo|mediamarkt|matkahuolto|mannheim|mtv uutiset|marimekko
+novel ai|netflix|nettiauto|nettimoto|nordea|norwegian|nhl|nordnet|nettivene|nopeustesti
+omavero|oikotie|omakanta|onnibus|outlook|op|omakela|omaelisa|opintopolku|onninen
+porsche museum|poliisi|paypal|pinterest|porsche|positiivinen luottotietorekisteri|primark|power|prisma|prosenttilaskuri
+qatar airways|qstock|quizlet|quesadilla|quedlinburg|quinoa|quiche|qr code generator|quark|qr koodi
+rewe|ryanair|rossmann|ruutu|reutlingen|restaurants near me|ravintola clove|rulantica|regenradar|ryan gosling
+stuttgart|sää stuttgart|sää|strasbourg|sanakirja|sää helsinki|skyscanner|schwarzwald|saksa|speedtest
+translate|tori|tübingen|traficom|telkku|trivago|tripadvisor|telia|temu|thomann
+ulm|uefa euro 2024|uniqlo|uutiset|uutinen|unibet|ulosotto|ulm nähtävyydet|ukraina|uefa
+veikkaus|vr|volkswagen|viking line|valuuttamuunnin|verkkokauppa|viaplay|vatertag 2024|vero|varusteleka
+wordle|whatsapp web|weather heidelberg|whatsapp|weather stuttgart|wikipedia|wetter|weather|wolt|wetransfer
+x|xxl|xinedome|xabi alonso|xe|xbox|xylitol|xperience united|xbil|xavi simons
+youtube|yle areena|yle|yle uutiset|yt|ylilauta|yahoo mail|yufka|ytj|yle urheilu
+zalando|zurich|zdf mediathek|zara|zürich|zurich sää|zdf live|zurich airport|zeus|zalando outlet
