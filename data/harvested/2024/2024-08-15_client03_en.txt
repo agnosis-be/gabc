@@ -1,0 +1,26 @@
+amazon|airbnb|aldi|aliexpress|adidas|amazon prime|apple|asos|amazon prime video|ao3
+booking|bundesliga|baden baden|bridgerton|birkenstock|bitcoin|bershka|bbc news|burger king|bbc
+chatgpt|copa america|canva|champions league|calculator|cnn|cristiano ronaldo|copilot|chat|celine dion
+deepl|deutsche bahn|dm|dhl tracking|decathlon|dhl|deichmann|discord|deadpool|disney plus
+em|euro 2024|em 2024|ebay|em spielplan|ebay kleinanzeigen|euro to inr|english to german|euro cup|euros
+flixbus|facebook|f1|fmovies|flights|filma24|frankfurt|florian wirtz|figma|french open
+google translate|google maps|gmail|google|german to english|google scholar|google flights|google drive|gemini|germany
+h&m|heidelberg|hornbach|house of the dragon|hermes|hermes tracking|hollister|hotmail|happy birthday|hamburg
+ikea|instagram|indeed|internet speed test|inside out 2|ipl|iphone 15|icloud|icc|iphone 16
+joe biden|jamal musiala|jude bellingham|jpg to pdf|jysk|jira|julian nagelsmann|jennifer lopez|justin bieber|jennifer aniston
+kit|kleinanzeigen|kaufland|kahoot|kamala harris|klarna|koora live|komoot|kalki 2898 ad|kik
+linkedin|lidl|lufthansa|livescore|lamine yamal|lidl near me|leo|luxembourg|louis vuitton|lego
+maps|mcdonald's|mbappe|minecraft|microsoft|mercedes|mango|maxton hall|mobile|messi
+netflix|nike|nvidia|nvidia stock|nba|news|notion|new yorker|neuschwanstein castle|new balance
+olympics 2024|otto|overleaf|outlook|o2|openai|obi|onedrive|olympia|onlyfans
+paypal|pinterest|prime video|primark|pandora|portugal|paris olympics|porsche|pdf to word|premier league
+qatar airways|qr code generator|quillbot|quinoa|qs ranking|qatar|queen charlotte|quizlet|quark|qibla finder
+ryanair|reddit|roblox|restaurants near me|ronaldo|real madrid|ryan reynolds|revolut|rice purity test|reserved
+skyscanner|saturn|spotify|speed test|shein|steam|strasbourg|stuttgart|scholar|sap
+translate|temu|twitter|twitch|tiktok|toni kroos|the boys|t20 world cup|taylor swift|turkish airlines
+uefa euro games|uefa euro standings|uefa euro brackets|uefa euro|uefa euro 2024|uefa|uefa euro stats|uniqlo|ufc|unidays
+vodafone|vvs|vinted|vistara|volkswagen|vincent kompany|venice beach|valorant|virat kohli|visual studio code
+weather|whatsapp web|wetter|wordle|wizz air|weather tomorrow|wikipedia|wimbledon|wolfram alpha|wetransfer
+x|xing|xxl lutz|xiaomi|xbox|xe|xavi simons|xabi alonso|xml|xxxtentacion
+youtube|yalla shoot|yahoo mail|youtube music|yahoo|young sheldon|yen to euro|yahoo finance|yandex|yamal
+zdf live|zdf mediathek|zalando|zara|zoom|zotero|zalando lounge|zac efron|zugspitze|zurich
